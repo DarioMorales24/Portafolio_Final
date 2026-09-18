@@ -1,9 +1,9 @@
 const SECCIONES_INFO = {
-    "sobre-mi": { label: "Sobre_Mí.txt", icon: "/icons/account.svg" },
-    "experiencia": { label: "Experiencia.log", icon: "/icons/briefcase.svg" },
-    "conocimientos": { label: "Conocimientos.exe", icon: "/icons/brain.svg" },
-    "proyectos": { label: "Proyectos.dir", icon: "/icons/settings.svg" },
-    "papelera": { label: "Papelera", icon: "/icons/trash.svg" },
+    "sobre-mi": { label: "Sobre_Mí.txt", icon: "icons/account.svg" },
+    "experiencia": { label: "Experiencia.log", icon: "icons/briefcase.svg" },
+    "conocimientos": { label: "Conocimientos.exe", icon: "icons/brain.svg" },
+    "proyectos": { label: "Proyectos.dir", icon: "icons/settings.svg" },
+    "papelera": { label: "Papelera", icon: "icons/trash.svg" },
     };
 
 export default function NavBar({ openTabs, activeTab, onSelectTab, onCloseTab }) {

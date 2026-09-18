@@ -26,7 +26,7 @@ const ARCHIVOS_PAPELERA = [
     },
     {
         nombre: "League of Legends",
-        icono: "/icons/lol.svg",
+        icono: "icons/lol.svg",
         chiste: `;; Acceso directo eliminado ;;\n\nLeague of Legends.exe no encontrado.\n\n> Veces desinstalado: 657\n> Veces reinstalado: 658\n\nMotivo de la desinstalación n°657:\n"Esta vez sí lo dejo. Ranked me hace daño."\n\nNota del sistema:\nSe detectó que volverá a instalarse en aproximadamente 3 días.`,
     },
 ];

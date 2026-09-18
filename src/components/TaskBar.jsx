@@ -44,7 +44,7 @@ function TaskBarButton({ icon, label, active, onClick }) {
             `}
         >
             <img
-                src={`/icons/${icon}`}
+                src={`icons/${icon}`}
                 alt={label}
                 className="h-[25px] w-[25px] object-contain invert"
             />
@@ -149,7 +149,7 @@ export default function TaskBar({
                                 "
                             >
                                 <img
-                                    src={`/icons/${app.icon}`}
+                                    src={`icons/${app.icon}`}
                                     alt=""
                                     className="h-6 w-6 object-contain invert"
                                 />
@@ -211,7 +211,7 @@ export default function TaskBar({
                     `}
                 >
                     <img
-                        src="/icons/window.svg"
+                        src="icons/window.svg"
                         alt="Inicio"
                         className="h-[25px] w-[25px] object-contain"
                     />
@@ -234,7 +234,7 @@ export default function TaskBar({
                     "
                 >
                     <img
-                        src="/icons/search.svg"
+                        src="icons/search.svg"
                         alt="Buscar"
                         className="h-[25px] w-[25px] object-contain invert"
                     />
@@ -257,7 +257,7 @@ export default function TaskBar({
                     "
                 >
                     <img
-                        src="/icons/folder.svg"
+                        src="icons/folder.svg"
                         alt="Explorador"
                         className="h-[25px] w-[25px] object-contain invert"
                     />
@@ -309,7 +309,7 @@ export default function TaskBar({
                     "
                 >
                     <img
-                        src="/icons/wifi.svg"
+                        src="icons/wifi.svg"
                         alt="Wi-Fi"
                         className="h-[15px] w-[15px] object-contain invert"
                     />
@@ -329,7 +329,7 @@ export default function TaskBar({
                     "
                 >
                     <img
-                        src="/icons/volume.svg"
+                        src="icons/volume.svg"
                         alt="Volumen"
                         className="h-[15px] w-[15px] object-contain invert"
                     />
@@ -349,7 +349,7 @@ export default function TaskBar({
                     "
                 >
                     <img
-                        src="/icons/battery.svg"
+                        src="icons/battery.svg"
                         alt="Batería"
                         className="h-[15px] w-[15px] object-contain invert"
                     />

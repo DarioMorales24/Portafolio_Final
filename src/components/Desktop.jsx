@@ -64,7 +64,7 @@ export default function Desktop() {
 
             {/* Fondo animado */}
             <img
-                src="/wallpapers/desktop.gif"
+                src="wallpapers/desktop.gif"
                 alt=""
                 className="
                     absolute
@@ -102,7 +102,7 @@ export default function Desktop() {
                             "
                         >
                             <img
-                                src={`/icons/${seccion.icon}`}
+                                src={`icons/${seccion.icon}`}
                                 alt={seccion.label}
                                 className="h-12 w-12 object-contain drop-shadow-lg invert"
                             />
@@ -135,7 +135,7 @@ export default function Desktop() {
                     "
                 >
                     <img
-                        src={`/icons/${PAPELERA.icon}`}
+                        src={`icons/${PAPELERA.icon}`}
                         alt={PAPELERA.label}
                         className="h-12 w-12 object-contain drop-shadow-lg invert"
                     />

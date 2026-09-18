@@ -20,8 +20,8 @@ const DATOS = {
         "Soy una persona tranquila, trabajadora y paciente, con facilidad para el trabajo en equipo, tolerancia al estrés y aprendizaje rápido.",
 
     github: "https://github.com/DarioMorales24",
-    cv: "/cv/CV_08-2026.pdf",
-    foto: "/assets/perfil.png",
+    cv: "cv/CV_08-2026.pdf",
+    foto: "assets/perfil.png",
 };
 
 const TECNOLOGIAS_PRINCIPALES = [
