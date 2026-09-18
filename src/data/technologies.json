@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Java",
+        "icon": "Java"
+    },
+    {
+        "name": "Spring",
+        "icon": "Spring"
+    },
+    {
+        "name": "PostgresSQL",
+        "icon": "PostgresSQL"
+    },
+    {
+        "name": "MySQL",
+        "icon": "MySQL"
+    },
+    {
+        "name": "React",
+        "icon": "React"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "JavaScript"
+    },
+    {
+        "name": "HTML",
+        "icon": "HTML"
+    },
+    {
+        "name": "CSS3",
+        "icon": "CSS3"
+    },
+    {
+        "name": "Tailwind CSS",
+        "icon": "Tailwind CSS"
+    },
+    {
+        "name": "Git",
+        "icon": "Git"
+    },
+    {
+        "name": "GitHub",
+        "icon": "GitHub"
+    },
+    {
+        "name": "Docker",
+        "icon": "Docker"
+    },
+    {
+        "name": "Postman",
+        "icon": "Postman"
+    },
+    {
+        "name": "Vite",
+        "icon": "Vite"
+    },
+    {
+        "name": "Webpack",
+        "icon": "Webpack"
+    }
+]

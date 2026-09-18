@@ -1,0 +1,32 @@
+[
+    {
+        "id": 6,
+        "title": "Level Up",
+        "description": "Plataforma de e‑commerce de tecnología y videojuegos, combinando React y Spring Boot para la gestión de usuarios, productos, carrito y compras.",
+        "images": [
+            "/assets/hola.jpg"
+        ],
+        "technologies": [
+            "React",
+            "JavaScript",
+            "Tailwind CSS",
+            "Vite"
+        ],
+        "github": "https://github.com/DarioMorales24/level-up-react.git"
+    },
+    {
+        "id": 8,
+        "title": "Enfoca",
+        "description": "Plataforma de IA colaborativa para potenciar la productividad académica con front‑end interactivo y microservicios.",
+        "images": [
+            "/assets/hola.jpg"
+        ],
+        "technologies": [
+            "React",
+            "JavaScript",
+            "Tailwind CSS",
+            "Vite"
+        ],
+        "github": "https://github.com/DarioMorales24/enfoca.git"
+    }
+]
